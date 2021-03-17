@@ -1,0 +1,15 @@
+{
+  "name": "cemansilla/blockchain",
+  "authors": [
+    {
+      "name": "Cesar Mansilla",
+      "email": "mail.mansilla@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Libs\\": "libs/"
+    }
+  }
+}
